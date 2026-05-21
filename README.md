@@ -44,7 +44,7 @@ vamsi = {
 ```
 🎨 Frontend Dev        →    🤖 ML Engineering       →    ⚙️ Backend + Full-Stack
    React, HTML/CSS          Model Training                FastAPI, Node.js
-   UI/UX Hands-on           Evaluation & CV               MongoDB, MySQL
+   UI/UX Hands-on           Evaluation                    MongoDB, MySQL
                             Scikit-Learn, Pandas          REST APIs
 ```
 
